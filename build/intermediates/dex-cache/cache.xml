@@ -2,11 +2,18 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\m.sonasath\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jar="C:\Users\m.sonasath\Desktop\Moiz_All_Data\Moiz\AndroidStudioProjects\codepath-todo-master\todobasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="C:\Users\m.sonasath\Desktop\Moiz_All_Data\Moiz\AndroidStudioProjects\codepath-todo-master\todobasic\app\build\intermediates\pre-dexed\debug\commons-io-2.4-fb687e089612d1de384f0b644c55d7e355673aae.jar" />
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\m.sonasath\Desktop\Moiz_All_Data\Moiz\AndroidStudioProjects\codepath-todo-master\todobasic\app\build\intermediates\pre-dexed\debug\classes-fce5da25dbd71ea4b0bc9fdcb0ccab85ac964907.jar" />
+    </item>
+    <item
+        jar="C:\Users\m.sonasath\Desktop\Moiz_All_Data\Moiz\AndroidStudioProjects\codepath-todo-master\todobasic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\m.sonasath\Desktop\Moiz_All_Data\Moiz\AndroidStudioProjects\codepath-todo-master\todobasic\app\build\intermediates\pre-dexed\debug\classes-271ef133d43c7999297d1dcb2507bd8070bbb3af.jar" />
     </item>
 
 </items>
